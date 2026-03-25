@@ -8,7 +8,7 @@ Email: kairosolo.124329@gmail.com | Github: [github.com/kairosolo](https://githu
 Unity C# game developer with a passion for game mechanics, puzzle design, and interactive storytelling. Published multiple games on itch.io and Steam, specializing in Unity 2D/3D development. Experienced in leading student projects and delivering polished, creative solutions.
 
 ## CV
-[Download My CV]()
+[Download My CV](https://github.com/kairosolo/arimado-portfolio/blob/main/Arimado%20CV.pdf)
 
 
 ## **KEY SKILLS**

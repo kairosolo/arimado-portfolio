@@ -1,30 +1,46 @@
 # **JUAN CARLOS ARIMADO**
 **Game Developer & 3rd-Year BSEMC Student**
 
-Email: kairosolo.124329@gmail.com | Github: [github.com/kairosolo](https://github.com/kairosolo)
+Email: kairosolo.124329@gmail.com | Github: [github.com/kairosolo](https://github.com/kairosolo) | LinkedIn: [linkedin.com/in/juan-carlos-arimado](https://www.linkedin.com/in/juan-carlos-arimado/) | Cainta, Rizal, Philippines
 
 
 ## **ABOUT**
-Unity C# game developer with a passion for game mechanics, puzzle design, and interactive storytelling. Published multiple games on itch.io and Steam, specializing in Unity 2D/3D development. Experienced in leading student projects and delivering polished, creative solutions.
+Unity C# game developer and founder of Bakunawa Studios. Shipped 4 titles across Steam and itch.io, including a top-4% finish at GMTK Game Jam 2025 (#347 of 9,529 entries). Specializing in game mechanics, puzzle systems, and full-stack development.
 
 ## CV
 [Download My CV](https://github.com/kairosolo/arimado-portfolio/blob/main/Arimado%20CV.pdf)
 
 
 ## **KEY SKILLS**
-- **Game Dev:** Unity (2D/3D), C#, Game Mechanics, Puzzle Systems
+- **Game Dev:** Unity (2D/3D), C#, Game Mechanics, Puzzle Systems, Level Design, UI/UX
 - **Programming:** C#, Python, Java
-- **Design:** Level Design, UI/UX, Game Balancing
+- **Web / Full-Stack:** React, Flask, REST API, PostgreSQL
 - **Tools:** Git, GitHub, Trello, Visual Studio, Affinity
-- **Web Dev:** React, Flask, REST API, SQL
 
 ## **SELECTED PROJECTS**
 
-### **Loophole: The Prison Break**
-*A 3D time-loop puzzle game where you clone yourself to escape prison.*
+### **Loophole: The Prison Break** *(Bakunawa Studios)*
+*A 3D time-loop puzzle platformer | GMTK Game Jam 2025, top 4% in Enjoyment (#347 of 9,529 entries)*
 - **Tech:** Unity (3D), C#, Affinity
 - **Steam:** [store.steampowered.com/app/4323880/Loophole_The_Prison_Break](https://store.steampowered.com/app/4323880/Loophole_The_Prison_Break)
 - **GitHub:** [github.com/kairosolo/GMTK-2025](https://github.com/kairosolo/GMTK-2025)
+
+### **Street Food Merge Tycoon** *(Bakunawa Studios)*
+*2nd Place, Game Production course (13-week project)*
+- **Tech:** Unity (2D), C#
+- **itch.io:** [studiosbakunawa.itch.io/street-food-merge-tycoon](https://studiosbakunawa.itch.io/street-food-merge-tycoon)
+
+### **Chop Chop TD** *(Bakunawa Studios)*
+*An endless tower defense game where you manage a restaurant.*
+- **Tech:** Unity (2D), C#
+- **itch.io:** [studiosbakunawa.itch.io/chop-chop-td](https://studiosbakunawa.itch.io/chop-chop-td)
+- **GitHub:** [github.com/kairosolo/foodrushtd](https://github.com/kairosolo/foodrushtd)
+
+### **HusAI**
+*A full-stack AI learning platform | 1,000+ registered users*
+- **Tech:** React, Flask, REST API, PostgreSQL
+- **Website:** [husai.net](https://husai.net)
+- **GitHub:** [github.com/kairosolo/husai](https://github.com/kairosolo/husai)
 
 ### **Piece by Piece**
 *A relaxing puzzle game inspired by Filipino artist Vicente Manansala.*
@@ -32,34 +48,18 @@ Unity C# game developer with a passion for game mechanics, puzzle design, and in
 - **itch.io:** [kairosolo.itch.io/piece-by-piece](https://kairosolo.itch.io/piece-by-piece)
 - **GitHub:** [github.com/kairosolo/piece-by-piece](https://github.com/kairosolo/piece-by-piece)
 
-### **Chop Chop TD**
-*An endless tower defense game where you manage a restaurant.*
-- **Tech:** Unity (2D), C#
-- **itch.io:** [studiosbakunawa.itch.io/chop-chop-td](https://studiosbakunawa.itch.io/chop-chop-td)
-- **GitHub:** [github.com/kairosolo/foodrushtd](https://github.com/kairosolo/foodrushtd)
-
 ### **Wishes Come True**
 *A magical shop game where you fulfill customers' wishes with the right items.*
 - **Tech:** Unity (2D), C#
 - **itch.io:** [kairosolo.itch.io/wishes-come-true](https://kairosolo.itch.io/wishes-come-true)
 - **GitHub:** [github.com/kairosolo/wishes-come-true](https://github.com/kairosolo/wishes-come-true)
 
-### **HusAI**
-*A full-stack AI learning platform for students and professionals.*
-- **Tech:** React, Flask, REST API, SQL
-- **Website:** [husai.net](https://husai.net)
-- **GitHub:** [github.com/kairosolo/husai](https://github.com/kairosolo/husai)
-
 ## **EDUCATION**
 **Bachelor of Science in Entertainment and Multimedia Computing (BSEMC)**
-*CIIT* | 3rd Year
+*CIIT | College of Innovation and Integrated Technology* | 3rd Year | GPA: 3.67 / 4.00
 
 ## **CERTIFICATIONS**
-- APEC Schools (2020)
-- AMA (2022)
-
-## **SOFT SKILLS**
-- **Leadership:** Project leader in school initiatives
-- **Communication:** Public speaking, team alignment
-- **Problem Solving:** Creative solutions for game/tech challenges
-- **Project Management:** Trello, workflow organization
+- AI Engineering Workshop for Game Development | CIIT Tech Programs Division (2026)
+- Complete Unity 2D Game Developer | GameDev.tv
+- Complete Unity 3D Game Developer | GameDev.tv
+- Unity Mobile C# Game Developer | GameDev.tv

@@ -5,7 +5,7 @@ Email: kairosolo.124329@gmail.com | Github: [github.com/kairosolo](https://githu
 
 
 ## **ABOUT**
-Unity C# game developer and founder of Bakunawa Studios. Shipped 4 titles across Steam and itch.io, including a top-4% finish at GMTK Game Jam 2025 (#347 of 9,529 entries). Specializing in game mechanics, puzzle systems, and full-stack development.
+Unity C# game developer and co-founder of Bakunawa Studios. Shipped 4 titles across Steam and itch.io, including a top-4% finish at GMTK Game Jam 2025 (#347 of 9,529 entries). Specializing in game mechanics, puzzle systems, and full-stack development.
 
 ## CV
 [Download My CV](https://github.com/kairosolo/arimado-portfolio/blob/main/Arimado%20CV.pdf)

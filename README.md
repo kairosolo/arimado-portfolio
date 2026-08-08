@@ -5,7 +5,7 @@ Email: kairosolo.124329@gmail.com | Github: [github.com/kairosolo](https://githu
 
 
 ## **ABOUT**
-Unity C# game developer and co-founder of Bakunawa Studios. Shipped 4 titles across Steam and itch.io, including a top-4% finish at GMTK Game Jam 2025 (#347 of 9,529 entries). Specializing in game mechanics, puzzle systems, and full-stack development.
+Unity C# game developer and co-founder of Bakunawa Studios. Winner of Best Desktop/Console Game at GDAP GameOn! Awards 2026. Shipped 4 titles across Steam and itch.io, including a top-4% finish at GMTK Game Jam 2025 (#347 of 9,529 entries). Specializing in game mechanics, puzzle systems, and full-stack development.
 
 ## CV
 [Download My CV](https://github.com/kairosolo/arimado-portfolio/blob/main/Arimado%20CV.pdf)
@@ -21,6 +21,7 @@ Unity C# game developer and co-founder of Bakunawa Studios. Shipped 4 titles acr
 
 ### **Loophole: The Prison Break** *(Bakunawa Studios)*
 *A 3D time-loop puzzle platformer | GMTK Game Jam 2025, top 4% in Enjoyment (#347 of 9,529 entries)*
+*Winner, Best Desktop/Console Game | Nominee, Innovation Award and Game of the Year - GDAP GameOn! Awards 2026 (School Category)*
 - **Tech:** Unity (3D), C#, Affinity
 - **Steam:** [store.steampowered.com/app/4323880/Loophole_The_Prison_Break](https://store.steampowered.com/app/4323880/Loophole_The_Prison_Break)
 - **GitHub:** [github.com/kairosolo/GMTK-2025](https://github.com/kairosolo/GMTK-2025)

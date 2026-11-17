@@ -1,5 +1,5 @@
 # **JUAN CARLOS ARIMADO**
-**Game Developer & 3rd-Year BSEMC Student**
+**Game Developer & 4th-Year BSEMC Student**
 
 Email: kairosolo.124329@gmail.com | Github: [github.com/kairosolo](https://github.com/kairosolo) | LinkedIn: [linkedin.com/in/juan-carlos-arimado](https://www.linkedin.com/in/juan-carlos-arimado/) | Cainta, Rizal, Philippines
 
@@ -24,7 +24,6 @@ Unity C# game developer and co-founder of Bakunawa Studios. Winner of Best Deskt
 *Winner, Best Desktop/Console Game | Nominee, Innovation Award and Game of the Year - GDAP GameOn! Awards 2026 (School Category)*
 - **Tech:** Unity (3D), C#, Affinity
 - **Steam:** [store.steampowered.com/app/4323880/Loophole_The_Prison_Break](https://store.steampowered.com/app/4323880/Loophole_The_Prison_Break)
-- **GitHub:** [github.com/kairosolo/GMTK-2025](https://github.com/kairosolo/GMTK-2025)
 
 ### **Street Food Merge Tycoon** *(Bakunawa Studios)*
 *2nd Place, Game Production course (13-week project)*
@@ -35,13 +34,11 @@ Unity C# game developer and co-founder of Bakunawa Studios. Winner of Best Deskt
 *An endless tower defense game where you manage a restaurant.*
 - **Tech:** Unity (2D), C#
 - **itch.io:** [studiosbakunawa.itch.io/chop-chop-td](https://studiosbakunawa.itch.io/chop-chop-td)
-- **GitHub:** [github.com/kairosolo/foodrushtd](https://github.com/kairosolo/foodrushtd)
 
 ### **HusAI**
 *A full-stack AI learning platform | 1,000+ registered users*
 - **Tech:** React, Flask, REST API, PostgreSQL
 - **Website:** [husai.net](https://husai.net)
-- **GitHub:** [github.com/kairosolo/husai](https://github.com/kairosolo/husai)
 
 ### **Piece by Piece**
 *A relaxing puzzle game inspired by Filipino artist Vicente Manansala.*
@@ -57,7 +54,7 @@ Unity C# game developer and co-founder of Bakunawa Studios. Winner of Best Deskt
 
 ## **EDUCATION**
 **Bachelor of Science in Entertainment and Multimedia Computing (BSEMC)**
-*CIIT | College of Innovation and Integrated Technology* | 3rd Year | GPA: 3.67 / 4.00
+*CIIT | College of Innovation and Integrated Technology* | 4th Year | GPA: 3.67 / 4.00
 
 ## **CERTIFICATIONS**
 - AI Engineering Workshop for Game Development | CIIT Tech Programs Division (2026)
